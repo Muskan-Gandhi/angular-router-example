@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "McDonals",
+      "price": "350",
+	  "image":"https://drive.google.com/file/d/1Pv1K_yBQVGHgkuNjKbHhxOWW88wG4hUy/view?usp=sharing"
+    },
+	{
+      "id": 2,
+      "title": "json-server",
+      "author": "https://drive.google.com/file/d/1Pv1K_yBQVGHgkuNjKbHhxOWW88wG4hUy/view?usp=sharing"
+    },
+	{
+      "id": 3,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
