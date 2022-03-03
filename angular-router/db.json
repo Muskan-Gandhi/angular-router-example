@@ -2,19 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "McDonals",
-      "price": "350",
-	  "image":"https://drive.google.com/file/d/1Pv1K_yBQVGHgkuNjKbHhxOWW88wG4hUy/view?usp=sharing"
+      "Name": "Burger",
+      "price": "150",
+      "image": "https://drive.google.com/uc?export=view&id=1txjzmz4YIevOxo6xZsKfdETue1cN3Kns"
     },
-	{
+    {
       "id": 2,
-      "title": "json-server",
-      "author": "https://drive.google.com/file/d/1Pv1K_yBQVGHgkuNjKbHhxOWW88wG4hUy/view?usp=sharing"
+      "Name": "Pizza",
+      "price": "350",
+      "image": "https://drive.google.com/uc?export=view&id=1S6xgYJa2emh955db6pZfFKeGZfcvRcz5"
     },
-	{
+    {
       "id": 3,
-      "title": "json-server",
-      "author": "typicode"
+      "Name": "Daal Baati",
+      "price": "300",
+      "image": "https://drive.google.com/uc?export=view&id=1tyccYbS5vQ6xpYg0rB96x35iSdpjeB7V"
     }
   ],
   "comments": [

@@ -1,1 +1,15 @@
-<p>home works!</p>
+<img src="./../assets/images/home.jpg" style="height: 450px;width: 98%;">
+<h1>{{pds.counter}}</h1>
+<!-- <p>home works!</p> -->
+<app-product> </app-product>
+<div class="container">
+    <br>
+    <div class="row">
+            <div class="md-3 card txt" *ngFor="let i of product">
+                <img src="{{ i.image}}">
+                <p>{{ i.Name }}</p>
+                <p>Rs. {{ i.price }}</p>
+                <button class="btn btn-primary" (click)="counter()">Add to Cart</button>
+            </div>
+        </div>
+    </div>
